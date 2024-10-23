@@ -25,7 +25,7 @@ The sentiment score (on a scale of 1 to 5) is calculated for both Italian and En
 # 5 Data Output:
 
 The results are stored in two separate CSV files (company_esg_analysis_ita.csv and company_esg_analysis_eng.csv) with columns:
--Company Name
+\n -Company Name
 -News Title
 -News Link
 -Date
